@@ -23,7 +23,7 @@ public class one {
 			arr1[i]=arr2[i];
 			arr2[i]=temp;
 			System.out.print(arr1[i]+" ");
-			System.out.print(arr2[i]+" ");
+			//System.out.print(arr2[i]+" ");
 		}
 		 
 	}
